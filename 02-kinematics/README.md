@@ -1,17 +1,8 @@
-# Kinematics for Lynx
+# Algorithm Tutorial for Robot Motion Planning
 
----
+## Contents
 
-## Lynx
-
----
-
-<img src="writeup_images/Lynx.png" width="100%" alt="Lynx"/>
-
----
-
-## Denavit-Hartenburg Specifications
-
----
-
-<img src="writeup_images/frame-specification.png" width="100%" alt="Denavit-Hartenburg Specification"/>
+* Forward kinematics description using Denavit-Hartenberg conventions.
+* Inverse kinematics through geometric approach.
+* Jacobian matrix for velocity representation.
+* Singularity and manipulability.

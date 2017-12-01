@@ -15,8 +15,8 @@
     * Configuration space
     * Exact solution through graph search
     * Probabilistic solution through sampling guided by artificial potential field
-    
-All the programming assignments are from 
+
+All the programming assignments are from
 
 1. <a href="https://www.edx.org/micromasters/pennx-robotics">edX MicroMaster Program by UPenn GRASP Lab</a>
 2. <a href="https://www.coursera.org/specializations/robotics">Coursera Robotics Specialization by UPenn GRASP Lab</a>
